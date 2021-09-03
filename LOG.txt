@@ -1,0 +1,9 @@
+08/26/2021:
+      - Review the requirements. - 5 minutes
+      - Write program in pseudo code. 20 minutes
+      - Determine input data file structure. 5 minutes
+      - Build input file to be read by program. 10 minutes
+      - Research date functions (for week number). 20 minutes
+
+I was unable to allocate any additional time to this project due to current work responsibilities.
+

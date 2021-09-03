@@ -1,0 +1,22 @@
+Define reference file
+Accept input from user
+Read reference file
+	User input = reference file key
+		Get goals for student
+		Display student name and student goals
+		What do you want to do
+			Continue - Loop accept input
+			End - Close files and exit program
+	User input not found in reference file	
+		Display error message 
+		What do you want to do
+			Continue - Loop accept input
+			End - Close files and exit program
+	User input not valid
+		Display error message 
+		What do you want to do
+			Continue - Loop accept input
+			End - Close files and exit program
+Exit routine 
+	Close files and exit program
+	
